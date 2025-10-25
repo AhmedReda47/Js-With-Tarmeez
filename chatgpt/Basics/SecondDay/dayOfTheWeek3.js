@@ -14,4 +14,4 @@ function dayOfTheWeek(day){
                 console.log("Normal Day");
     }
 }
-dayOfTheWeek("Friday")
+dayOfTheWeek("Friday") 
